@@ -37,3 +37,6 @@ structure. All new repositories should be created using an appropriate template 
 ### [GitCore Template Repository](https://github.com/uwhealth-is/GitCore-template-repository)
 All purpose template to create a repository with standard documentation.
 
+## Need Help?
+
+Start a discussion with the [GitCore Team](https://github.com/orgs/uwhealth-is/teams/gitcore).
