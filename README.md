@@ -4,3 +4,8 @@ Template repositories allow developers to start a new repository using a standar
 
 ### [GitCore Template Repository](https://github.com/uwhealth-is/GitCore-template-repository)
 All purpose template to create a repository with standard documentation.
+
+### What should I put into git?
+Use the following flowchart to decide if you should commit a file to git:
+
+[["/Github Decision Matrix.png"|flowchart]]
