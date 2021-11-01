@@ -27,7 +27,7 @@ These are examples of source code:
 
 Use this flowchart to help decide if something should be in GitHub:
 
-![flowchart](Github-Decision-Flowchart.svg)
+![flowchart](./images/Github-Decision-Flowchart.svg)
 
 ## Template Repositories
 
