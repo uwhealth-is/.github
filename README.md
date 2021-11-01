@@ -8,4 +8,4 @@ All purpose template to create a repository with standard documentation.
 ### What should I put into git?
 Use the following flowchart to decide if you should commit a file to git:
 
-[["/Github Decision Matrix.png"|flowchart]]
+![flowchart](Github-Decision-Matrix.png)
